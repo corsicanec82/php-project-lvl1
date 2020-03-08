@@ -14,5 +14,8 @@
             "email": "stanislav.dzisiak@outlook.com"
         }
     ],
+    "bin": [
+        "bin/brain-games"
+    ],
     "require": {}
 }
