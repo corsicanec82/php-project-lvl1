@@ -9,3 +9,9 @@
 ```sh
 $ composer global require corsicanec82/brain-games
 ```
+
+## Run game - Even
+```sh
+$ brain-even
+```
+[![asciicast](https://asciinema.org/a/bCqEKyd5MOFqQCNobLV0d7QfU.svg)](https://asciinema.org/a/bCqEKyd5MOFqQCNobLV0d7QfU)
