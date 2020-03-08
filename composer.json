@@ -1,0 +1,18 @@
+{
+    "name": "corsicanec82/brain-games",
+    "description": "Simple brain games",
+    "keywords": [
+        "simple",
+        "brain",
+        "games"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav Dzisiak",
+            "email": "stanislav.dzisiak@outlook.com"
+        }
+    ],
+    "require": {}
+}
