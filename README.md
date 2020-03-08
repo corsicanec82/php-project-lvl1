@@ -21,3 +21,9 @@ $ brain-even
 $ brain-calc
 ```
 [![asciicast](https://asciinema.org/a/sJudpbTSKfJLVnzAuazTckwzP.svg)](https://asciinema.org/a/sJudpbTSKfJLVnzAuazTckwzP)
+
+## Run game - Gcd
+```sh
+$ brain-gcd
+```
+[![asciicast](https://asciinema.org/a/6ykMR4PvEX2B4YbZqqJAYTlEO.svg)](https://asciinema.org/a/6ykMR4PvEX2B4YbZqqJAYTlEO)
