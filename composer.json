@@ -18,11 +18,12 @@
         "phpcs": "phpcs"
     },
     "bin": [
-        "bin/brain-games"
+        "bin/brain-even"
     ],
     "autoload": {
         "files": [
-            "src/Cli.php"
+            "src/Engine.php",
+            "src/Games/Even.php"
         ]
     },
     "require": {
