@@ -15,3 +15,9 @@ $ composer global require corsicanec82/brain-games
 $ brain-even
 ```
 [![asciicast](https://asciinema.org/a/bCqEKyd5MOFqQCNobLV0d7QfU.svg)](https://asciinema.org/a/bCqEKyd5MOFqQCNobLV0d7QfU)
+
+## Run game - Calc
+```sh
+$ brain-calc
+```
+[![asciicast](https://asciinema.org/a/sJudpbTSKfJLVnzAuazTckwzP.svg)](https://asciinema.org/a/sJudpbTSKfJLVnzAuazTckwzP)
