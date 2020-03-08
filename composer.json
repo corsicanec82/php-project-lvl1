@@ -1,12 +1,17 @@
 {
     "name": "corsicanec82/brain-games",
     "description": "Simple brain games",
+    "type": "project",
     "keywords": [
         "simple",
         "brain",
         "games"
     ],
-    "type": "project",
+    "homepage": "https://github.com/corsicanec82/php-project-lvl1",
+    "readme": "https://github.com/corsicanec82/php-project-lvl1#readme",
+    "support": {
+        "issues": "https://github.com/corsicanec82/php-project-lvl1/issues"
+    },
     "license": "MIT",
     "authors": [
         {
@@ -18,12 +23,14 @@
         "phpcs": "phpcs"
     },
     "bin": [
-        "bin/brain-even"
+        "bin/brain-even",
+        "bin/brain-calc"
     ],
     "autoload": {
         "files": [
             "src/Engine.php",
-            "src/Games/Even.php"
+            "src/Games/Even.php",
+            "src/Games/Calc.php"
         ]
     },
     "require": {
