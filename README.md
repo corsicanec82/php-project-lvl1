@@ -27,3 +27,9 @@ $ brain-calc
 $ brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/6ykMR4PvEX2B4YbZqqJAYTlEO.svg)](https://asciinema.org/a/6ykMR4PvEX2B4YbZqqJAYTlEO)
+
+## Run game - Progression
+```sh
+$ brain-progression
+```
+[![asciicast](https://asciinema.org/a/IOv2km7vUSE1PC3RRiL1OHEvP.svg)](https://asciinema.org/a/IOv2km7vUSE1PC3RRiL1OHEvP)
