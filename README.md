@@ -33,3 +33,9 @@ $ brain-gcd
 $ brain-progression
 ```
 [![asciicast](https://asciinema.org/a/IOv2km7vUSE1PC3RRiL1OHEvP.svg)](https://asciinema.org/a/IOv2km7vUSE1PC3RRiL1OHEvP)
+
+## Run game - Prime
+```sh
+$ brain-prime
+```
+[![asciicast](https://asciinema.org/a/8YcWFiWvz9Vao6Tv8awD4tvaR.svg)](https://asciinema.org/a/8YcWFiWvz9Vao6Tv8awD4tvaR)
