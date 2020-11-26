@@ -15,7 +15,7 @@ function genRoundData(): array
 {
     $number = rand(10, 99);
     $question = (string) $number;
-    $answer = isEven($number) ? 'yes111' : 'no111';
+    $answer = isEven($number) ? 'yes' : 'no';
 
     return [$question, $answer];
 }
