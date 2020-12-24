@@ -13,3 +13,6 @@ jobs:
 
       - name: Hexlet project check
         uses: hexlet/project-action@master
+        with:
+          hexlet-id: ${{ secrets.HEXLET_ID }}
+
