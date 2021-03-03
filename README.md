@@ -1,4 +1,4 @@
-# Brain game project
+# Brain games project
 *simple brain games*
 
 [![github action status](https://github.com/corsicanec82/php-project-lvl1/workflows/PHP%20CI/badge.svg)](https://github.com/corsicanec82/php-project-lvl1/actions)
