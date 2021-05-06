@@ -7,35 +7,35 @@
 
 ## Install
 ```sh
-$ composer global require corsicanec82/brain-games
+composer global require corsicanec82/brain-games
 ```
 
 ## Run game - Even
 ```sh
-$ brain-even
+brain-even
 ```
 [![asciicast](https://asciinema.org/a/bCqEKyd5MOFqQCNobLV0d7QfU.svg)](https://asciinema.org/a/bCqEKyd5MOFqQCNobLV0d7QfU)
 
 ## Run game - Calc
 ```sh
-$ brain-calc
+brain-calc
 ```
 [![asciicast](https://asciinema.org/a/sJudpbTSKfJLVnzAuazTckwzP.svg)](https://asciinema.org/a/sJudpbTSKfJLVnzAuazTckwzP)
 
 ## Run game - Gcd
 ```sh
-$ brain-gcd
+brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/6ykMR4PvEX2B4YbZqqJAYTlEO.svg)](https://asciinema.org/a/6ykMR4PvEX2B4YbZqqJAYTlEO)
 
 ## Run game - Progression
 ```sh
-$ brain-progression
+brain-progression
 ```
 [![asciicast](https://asciinema.org/a/IOv2km7vUSE1PC3RRiL1OHEvP.svg)](https://asciinema.org/a/IOv2km7vUSE1PC3RRiL1OHEvP)
 
 ## Run game - Prime
 ```sh
-$ brain-prime
+brain-prime
 ```
 [![asciicast](https://asciinema.org/a/8YcWFiWvz9Vao6Tv8awD4tvaR.svg)](https://asciinema.org/a/8YcWFiWvz9Vao6Tv8awD4tvaR)
